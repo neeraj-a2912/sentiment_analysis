@@ -24,3 +24,15 @@ To run this project, you need Python 3.x and the following libraries:
 Install the required libraries using pip:
 ```sh
 pip install pandas numpy scikit-learn
+
+## Usage
+1. Clone the repository
+```sh
+git clone https://github.com/yourusername/movie-review-sentiment-analysis.git
+cd movie-review-sentiment-analysis
+
+2. Run the jupyter notebook
+```sh
+jupyter notebook sentiment_analysis.ipynb
+
+
